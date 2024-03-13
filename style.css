@@ -18,12 +18,6 @@ nav img{
     padding:auto;
 }
 
-nav li{
-    display: flex;
-    margin: auto;
-    padding: auto;
-}
-
 nav ul{
     display: flex;
     justify-content: space-between;
@@ -84,8 +78,8 @@ p{
 
 aside img{
     width: 100%;
-    margin: 10%;
-    padding: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
 
 h1{
